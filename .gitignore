@@ -15,3 +15,7 @@
 vendor/
 
 test-payload.json
+
+checkr-darwin-amd64
+checkr-linux-amd64
+checkr-windows-amd64.exe
